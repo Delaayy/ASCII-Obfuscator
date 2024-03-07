@@ -1,4 +1,4 @@
-# Retarded Lua ASCII-Obfuscated
+# Retarded Lua ASCII-Obfuscator
 Its pretty shit, i don't actually recommend use it. Ofc it somehow "obfuscates" the code but everyone with more than 2 braincells can easily deobfuscate that.
 
 (I recommend, only use that for learning purpose or some stuff)
